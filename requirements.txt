@@ -1,0 +1,5 @@
+# Программа (src/app.py) работает только на стандартной библиотеке Python.
+# Для повторной обработки данных (src/processing.py) нужны:
+pandas
+openpyxl
+scikit-learn
